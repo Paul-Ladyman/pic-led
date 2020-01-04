@@ -19,6 +19,7 @@
 
 // Using XC compiler
 #include <xc.h>
+#include <pic12f675.h>
 
 // Define which pin to use to blink LED
 #define LED GP0
